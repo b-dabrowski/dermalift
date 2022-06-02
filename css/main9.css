@@ -1980,7 +1980,7 @@ h3 + .section_header,
   position: absolute;
   left: 50%;
   top: 50%;
-  background: url(../dermalift/img/preloader.gif) no-repeat 50% 50% transparent;
+  background: url(../img/preloader.gif) no-repeat 50% 50% transparent;
   margin: -50px 0 0 -50px;
 }
 
