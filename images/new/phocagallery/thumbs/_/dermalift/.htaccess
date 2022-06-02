@@ -1,0 +1,9 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^www.dermalift.com.pl [nc]
+RewriteRule ^(.*)$ http://dermalift.com.pl/$1 [r=301]
+
+RewriteCond %{REQUEST_FILENAME} index_default.html [nc]
+RewriteRule ^(.*)$ http://dermalift.com.pl/ [R=301,L]
+
