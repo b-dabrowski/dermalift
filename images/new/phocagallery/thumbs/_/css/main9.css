@@ -621,7 +621,7 @@ p + .progress {
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  background-image: url("../dermalift/images/tab-active-bg.jpg");
+  background-image: url("../images/tab-active-bg.jpg");
   background-size: cover;
   color: #ffffff;
 }
@@ -2856,7 +2856,7 @@ body.boxed {
 }
 
 .ds .lookbook-small .with_background {
-  background-image: url("../dermalift/images/lookbook-small-bg-dark.png");
+  background-image: url("../images/lookbook-small-bg-dark.png");
 }
 
 .ds .founding-date-cont:before,
@@ -2865,7 +2865,7 @@ body.boxed {
 }
 
 .ds .signature2 {
-  background-image: url("../dermalift/images/signature2-dark.jpg");
+  background-image: url("../images/signature2-dark.jpg");
 }
 
 .ds .day-date {
@@ -3279,7 +3279,7 @@ section .cs .theme_button:hover {
 }
 
 .header_bg_image {
-  background: url("../dermalift/images/header_bg.jpg");
+  background: url("../images/header_bg.jpg");
   background-size: cover;
 }
 
@@ -3572,7 +3572,7 @@ a.logo.vertical_logo img {
   display: block;
   width: 137px;
   height: 59px;
-  background-image: url(../dermalift/images/signature2.png);
+  background-image: url(../images/signature2.png);
   margin: 5px auto;
 }
 
@@ -3580,13 +3580,13 @@ a.logo.vertical_logo img {
   display: block;
   width: 59px;
   height: 59px;
-  background-image: url(../dermalift/images/signature-image-skincare-mini.jpg);
+  background-image: url(../images/signature-image-skincare-mini.jpg);
   margin: 5px auto;
 }
 
 /* Banners sections */
 .banners {
-  background-image: url("../dermalift/images/banners_bg2.jpg");
+  background-image: url("../images/banners_bg2.jpg");
 }
 
 /* Services */
@@ -3638,7 +3638,7 @@ a.logo.vertical_logo img {
 
 /* Lookbook section */
 .lookbook {
-  background-image: url("../dermalift/images/banners_bg5.jpg");
+  background-image: url("../images/banners_bg5.jpg");
 }
 
 /* Architecture */
@@ -4020,7 +4020,7 @@ a.logo.vertical_logo img {
 }
 
 .section_subscribe.parallax {
-  background-image: url("../dermalift/images/parallax/texture.png");
+  background-image: url("../images/parallax/texture.png");
 }
 
 .section_subscribe .form-control {
@@ -4030,7 +4030,7 @@ a.logo.vertical_logo img {
 }
 
 .page_breadcrumbs.parallax {
-  background-image: url(../dermalift/images/parallax/texture2.jpg);
+  background-image: url(../images/parallax/texture2.jpg);
 }
 
 .page_testimonials {
@@ -4041,7 +4041,7 @@ a.logo.vertical_logo img {
   position: relative;
   z-index: 3;
   margin-top: 25px;
-  background-image: url("../dermalift/images/copyright_bg.jpg");
+  background-image: url("../images/copyright_bg.jpg");
 }
 
 @media (max-width: 991px) {
@@ -4135,12 +4135,12 @@ a.logo.vertical_logo img {
 }
 
 .page_contact.parallax {
-  background-image: url(../dermalift/images/parallax/map.jpg);
+  background-image: url(../images/parallax/map.jpg);
 }
 
 .page_copyright.parallax,
 .page_footer.parallax {
-  background-image: url(../dermalift/images/parallax/bottom.jpg);
+  background-image: url(../images/parallax/bottom.jpg);
 }
 
 .ds.ms + .page_footer.ds.ms {
@@ -5100,7 +5100,7 @@ article.vertical-item .item-content {
 
 .format-status,
 .format-quote {
-  background-image: url("../dermalift/images/post-status-bg.jpg");
+  background-image: url("../images/post-status-bg.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -5112,7 +5112,7 @@ article.vertical-item .item-content {
 }
 
 .format-quote {
-  background-image: url("../dermalift/images/post-quote-bg.jpg");
+  background-image: url("../images/post-quote-bg.jpg");
 }
 
 .format-chat ol {
@@ -6906,7 +6906,7 @@ aside .widget_tag_cloud a:hover {
 
 .contact-form.parallax {
   padding: 50px 50px 35px;
-  background-image: url(../dermalift/images/parallax/texture.png);
+  background-image: url(../images/parallax/texture.png);
 }
 
 .contact-form-respond {
@@ -7131,7 +7131,7 @@ a:hover .service-icon {
 }
 
 .big-banner:after {
-  background-image: url("../dermalift/images/banner-big-top-backing.png");
+  background-image: url("../images/banner-big-top-backing.png");
 }
 
 .big-banner .item-media img {
@@ -7144,7 +7144,7 @@ a:hover .service-icon {
 
 @media (min-width: 768px) {
   .big-banner:after {
-    background-image: url("../dermalift/images/banner-big-backing.png");
+    background-image: url("../images/banner-big-backing.png");
   }
 
   .big-banner .item-content {
@@ -7179,7 +7179,7 @@ a:hover .service-icon {
 }
 
 .lookbook-small .with_background {
-  background-image: url("../dermalift/images/lookbook-small-bg.png");
+  background-image: url("../images/lookbook-small-bg.png");
   background-position: bottom right;
   background-repeat: no-repeat;
 }
@@ -7195,7 +7195,7 @@ a:hover .service-icon {
 }
 
 .lookbook-big:after {
-  background-image: url("../dermalift/images/lookbook-backing.png");
+  background-image: url("../images/lookbook-backing.png");
 }
 
 .lookbook-big .item-media {
@@ -7274,7 +7274,7 @@ a:hover .service-icon {
 
 .week-days {
   position: relative;
-  background-image: url("../dermalift/images/appointment-header-bg.jpg");
+  background-image: url("../images/appointment-header-bg.jpg");
   border-radius: 5px 6px 0 0;
   overflow: hidden;
   border-bottom: 5px solid #d9778c;
