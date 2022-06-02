@@ -310,14 +310,14 @@ label {
   height: 12px;
   border-width: 0;
   background-color: transparent;
-  background-image: url("../dermalift/img/bullet.png");
+  background-image: url("../img/bullet.png");
   margin: 0 5px;
   -webkit-transition: all 0.2s ease-in-out 0s;
   transition: all 0.2s ease-in-out 0s;
 }
 
 .carousel-indicators li:hover {
-  background-image: url("../dermalift/img/bullet_hover.png");
+  background-image: url("../img/bullet_hover.png");
 }
 
 .carousel-indicators .active {
@@ -325,7 +325,7 @@ label {
   height: 12px;
   margin: 0 5px;
   background-color: transparent;
-  background-image: url("../dermalift/img/bullet_hover.png");
+  background-image: url("../img/bullet_hover.png");
 }
 
 .carousel-control {
@@ -1870,7 +1870,7 @@ p > [class*="rt-icon"] + [class*="rt-icon"] {
 
 .bg_image,
 .bg_image:after {
-  background-image: url(../dermalift/img/background_section.png);
+  background-image: url(../img/background_section.png);
 }
 
 /* Hero text in sections */
@@ -2020,47 +2020,47 @@ body.boxed {
 }
 
 .pattern1 {
-  background-image: url(../dermalift/img/pattern1.png);
+  background-image: url(../img/pattern1.png);
 }
 
 .pattern2 {
-  background-image: url(../dermalift/img/pattern2.png);
+  background-image: url(../img/pattern2.png);
 }
 
 .pattern3 {
-  background-image: url(../dermalift/img/pattern3.png);
+  background-image: url(../img/pattern3.png);
 }
 
 .pattern4 {
-  background-image: url(../dermalift/img/pattern4.png);
+  background-image: url(../img/pattern4.png);
 }
 
 .pattern5 {
-  background-image: url(../dermalift/img/pattern5.png);
+  background-image: url(../img/pattern5.png);
 }
 
 .pattern6 {
-  background-image: url(../dermalift/img/pattern6.png);
+  background-image: url(../img/pattern6.png);
 }
 
 .pattern7 {
-  background-image: url(../dermalift/img/pattern7.png);
+  background-image: url(../img/pattern7.png);
 }
 
 .pattern8 {
-  background-image: url(../dermalift/img/pattern8.png);
+  background-image: url(../img/pattern8.png);
 }
 
 .pattern9 {
-  background-image: url(../dermalift/img/pattern9.png);
+  background-image: url(../img/pattern9.png);
 }
 
 .pattern10 {
-  background-image: url(../dermalift/img/pattern10.png);
+  background-image: url(../img/pattern10.png);
 }
 
 .pattern11 {
-  background-image: url(../dermalift/img/pattern11.png);
+  background-image: url(../img/pattern11.png);
 }
 
 .boxed .container,
@@ -2831,24 +2831,24 @@ body.boxed {
 }
 
 .ds .topline-button .top-button {
-  background-image: url(../dermalift/img/top-buttons-hover.png);
+  background-image: url(../img/top-buttons-hover.png);
 }
 
 .ds .topline-button:hover .top-button {
-  background-image: url(../dermalift/img/top-buttons-dark-hover.png);
+  background-image: url(../img/top-buttons-dark-hover.png);
 }
 
 .ds.services {
-  background-image: url("../dermalift/img/half-logo-icon-big-dark.png");
+  background-image: url("../img/half-logo-icon-big-dark.png");
 }
 
 .ds a:hover .service-icon {
-  background-image: url("../dermalift/img/services-dark-hover.png");
+  background-image: url("../img/services-dark-hover.png");
 }
 
 .ds .theme-block:before,
 .ds .theme-block:after {
-  background-image: url("../dermalift/img/logo-icon-dark.png");
+  background-image: url("../img/logo-icon-dark.png");
 }
 
 .ds .architecture-tabs > li > a {
@@ -3591,7 +3591,7 @@ a.logo.vertical_logo img {
 
 /* Services */
 .services {
-  background-image: url("../dermalift/img/half-logo-icon-big.png");
+  background-image: url("../img/half-logo-icon-big.png");
   background-position: top center;
   background-repeat: no-repeat;
 }
@@ -4521,7 +4521,7 @@ section .intro_section .slide_description_wrapper {
     width: 12px;
     height: 12px;
     margin-right: 16px;
-    background-image: url("../dermalift/img/bullet.png");
+    background-image: url("../img/bullet.png");
     -webkit-transition: all 0.2s ease-in-out 0s;
     transition: all 0.2s ease-in-out 0s;
   }
@@ -4547,7 +4547,7 @@ section .intro_section .slide_description_wrapper {
 
   .sf-menu ul a:hover:before,
   .sf-menu ul li.active a:before {
-    background-image: url("../dermalift/img/bullet_hover.png");
+    background-image: url("../img/bullet_hover.png");
   }
   /* third level */
   .sf-menu ul ul {
@@ -6990,7 +6990,7 @@ aside .widget_tag_cloud a:hover {
 
 /* Top buttons sprite */
 .top-button {
-  background-image: url(../dermalift/img/top-buttons.png);
+  background-image: url(../img/top-buttons.png);
   background-repeat: no-repeat;
   display: inline-block;
   width: 16px;
@@ -7003,7 +7003,7 @@ aside .widget_tag_cloud a:hover {
 
 a:hover .top-button,
 .top-button:hover {
-  background-image: url(../dermalift/img/top-buttons-hover.png);
+  background-image: url(../img/top-buttons-hover.png);
 }
 
 .top-button-cart {
@@ -7027,7 +7027,7 @@ a:hover .top-button,
   width: 44px;
   height: 44px;
   margin-right: 8px;
-  background-image: url(../dermalift/img/services.png);
+  background-image: url(../img/services.png);
   background-repeat: no-repeat;
   display: inline-block;
   vertical-align: middle;
@@ -7036,7 +7036,7 @@ a:hover .top-button,
 }
 
 a:hover .service-icon {
-  background-image: url(../dermalift/img/services-hover.png);
+  background-image: url(../img/services-hover.png);
 }
 
 .service-cosmetic {
@@ -7068,7 +7068,7 @@ a:hover .service-icon {
   display: inline-block;
   vertical-align: middle;
   background-repeat: no-repeat;
-  background-image: url("../dermalift/img/logo-icon.png");
+  background-image: url("../img/logo-icon.png");
   background-size: cover;
 }
 
@@ -7242,7 +7242,7 @@ a:hover .service-icon {
   height: 60px;
   margin-top: -6px;
   background-color: transparent;
-  background-image: url("../dermalift/img/nav_bg.png");
+  background-image: url("../img/nav_bg.png");
   cursor: pointer;
 }
 
@@ -8456,7 +8456,7 @@ hr.highlight4 {
   top: -15px;
   height: 15px;
   width: 28px;
-  background: url("../dermalift/img/logo-icon.png") top center/28px no-repeat;
+  background: url("../img/logo-icon.png") top center/28px no-repeat;
 }
 
 .theme-block:after {
@@ -8548,7 +8548,7 @@ hr.highlight4 {
   left: 50%;
   margin-top: -8px;
   margin-left: -8px;
-  background-image: url("../dermalift/img/top-buttons-dark-hover.png");
+  background-image: url("../img/top-buttons-dark-hover.png");
 }
 
 .product-item .media-links:before {
@@ -9425,7 +9425,7 @@ hr.highlight4 {
   width: 60px;
   height: 60px;
   background-color: transparent;
-  background-image: url("../dermalift/img/nav_bg.png");
+  background-image: url("../img/nav_bg.png");
   cursor: pointer;
 }
 
@@ -9653,12 +9653,12 @@ hr.highlight4 {
   -webkit-backface-visibility: visible;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
-  background-image: url("../dermalift/img/bullet.png");
+  background-image: url("../img/bullet.png");
 }
 
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-  background-image: url("../dermalift/img/bullet_hover.png");
+  background-image: url("../img/bullet_hover.png");
 }
 
 .owl-custom-nav {
@@ -10010,29 +10010,29 @@ html[xmlns] .slides {
 prettyPhoto
 */
 div.facebook .pp_expand {
-  background: url(../dermalift/img/prettyPhoto/facebook/sprite.png) -31px -26px no-repeat;
+  background: url(../img/prettyPhoto/facebook/sprite.png) -31px -26px no-repeat;
   cursor: pointer;
 }
 
 div.facebook .pp_expand:hover {
-  background: url(../dermalift/img/prettyPhoto/facebook/sprite.png) -31px -47px no-repeat;
+  background: url(../img/prettyPhoto/facebook/sprite.png) -31px -47px no-repeat;
   cursor: pointer;
 }
 
 div.facebook .pp_contract {
-  background: url(../dermalift/img/prettyPhoto/facebook/sprite.png) 0 -26px no-repeat;
+  background: url(../img/prettyPhoto/facebook/sprite.png) 0 -26px no-repeat;
   cursor: pointer;
 }
 
 div.facebook .pp_contract:hover {
-  background: url(../dermalift/img/prettyPhoto/facebook/sprite.png) 0 -47px no-repeat;
+  background: url(../img/prettyPhoto/facebook/sprite.png) 0 -47px no-repeat;
   cursor: pointer;
 }
 
 div.facebook .pp_close {
   width: 22px;
   height: 22px;
-  background: url(../dermalift/img/prettyPhoto/facebook/sprite.png) -1px -1px no-repeat;
+  background: url(../img/prettyPhoto/facebook/sprite.png) -1px -1px no-repeat;
   cursor: pointer;
   z-index: 3000;
 }
@@ -10042,12 +10042,12 @@ div.facebook .pp_description {
 }
 
 div.facebook .pp_loaderIcon {
-  background: url(../dermalift/img/prettyPhoto/facebook/loader.gif) center center
+  background: url(../img/prettyPhoto/facebook/loader.gif) center center
     no-repeat;
 }
 
 div.facebook .pp_arrow_previous {
-  background: url(../dermalift/img/prettyPhoto/facebook/sprite.png) 0 -71px no-repeat;
+  background: url(../img/prettyPhoto/facebook/sprite.png) 0 -71px no-repeat;
   height: 22px;
   margin-top: 0;
   width: 22px;
@@ -10059,7 +10059,7 @@ div.facebook .pp_arrow_previous.disabled {
 }
 
 div.facebook .pp_arrow_next {
-  background: url(../dermalift/img/prettyPhoto/facebook/sprite.png) -32px -71px no-repeat;
+  background: url(../img/prettyPhoto/facebook/sprite.png) -32px -71px no-repeat;
   height: 22px;
   margin-top: 0;
   width: 22px;
@@ -10081,25 +10081,25 @@ div.facebook .pp_nav p {
 }
 
 div.facebook .pp_nav .pp_play {
-  background: url(../dermalift/img/prettyPhoto/facebook/sprite.png) -1px -123px no-repeat;
+  background: url(../img/prettyPhoto/facebook/sprite.png) -1px -123px no-repeat;
   height: 22px;
   width: 22px;
 }
 
 div.facebook .pp_nav .pp_pause {
-  background: url(../dermalift/img/prettyPhoto/facebook/sprite.png) -32px -123px no-repeat;
+  background: url(../img/prettyPhoto/facebook/sprite.png) -32px -123px no-repeat;
   height: 22px;
   width: 22px;
 }
 
 div.facebook .pp_next:hover {
-  background: url(../dermalift/img/prettyPhoto/facebook/btnNext.png) center right
+  background: url(../img/prettyPhoto/facebook/btnNext.png) center right
     no-repeat;
   cursor: pointer;
 }
 
 div.facebook .pp_previous:hover {
-  background: url(../dermalift/img/prettyPhoto/facebook/btnPrevious.png) center left
+  background: url(../img/prettyPhoto/facebook/btnPrevious.png) center left
     no-repeat;
   cursor: pointer;
 }
@@ -10257,7 +10257,7 @@ a.pp_arrow_next {
 }
 
 .pp_gallery li.default a {
-  background: url(../dermalift/img/prettyPhoto/facebook/default_thumbnail.gif) 0 0
+  background: url(../img/prettyPhoto/facebook/default_thumbnail.gif) 0 0
     no-repeat;
   display: block;
   height: 33px;
@@ -10270,7 +10270,7 @@ a.pp_arrow_next {
 }
 
 a.pp_next {
-  background: url(../dermalift/img/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px
+  background: url(../img/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px
     no-repeat;
   display: block;
   float: right;
@@ -10282,7 +10282,7 @@ a.pp_next {
 }
 
 a.pp_previous {
-  background: url(../dermalift/img/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px
+  background: url(../img/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px
     no-repeat;
   display: block;
   float: left;
